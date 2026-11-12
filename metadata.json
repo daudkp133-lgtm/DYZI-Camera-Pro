@@ -1,0 +1,6 @@
+{
+  "name": "GPS Cam Pro",
+  "description": "Advanced GPS camera with customizable stamps, map overlay, custom date/time, and photo editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
